@@ -1,0 +1,28 @@
+@media (min-width: 601px) {
+  body {
+    background-color: lime;
+  }
+
+  header {
+    justify-content: flex-end;
+    min-width: 99%;
+    padding: 12px;
+  }
+
+  .header-main-text {
+    font-size: 2.5em;
+  }
+
+  main {
+    min-width: 100%;
+    top: 46px;
+  }
+
+  h1.intro-h {
+    font-size: 3rem;
+  }
+
+  h2.intro-h {
+    font-size: 2rem;
+  }
+}
